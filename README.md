@@ -1,1 +1,2 @@
-# SI_2023_lab1_165019
+Teodora Gudeska
+165019
