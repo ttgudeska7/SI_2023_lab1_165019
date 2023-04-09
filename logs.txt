@@ -1,0 +1,16 @@
+cd SI_2023_lab1_165019
+git remote -v
+echo > README.md
+notepad README.md
+git add README.md
+git commit -m "Initial commit"
+git push
+notepad SILab1.java
+git add SILab1.java
+git commit -m "Add java class"
+git push
+git branch
+git branch bug1
+git branch bug2
+git branch bug3
+git checkout bug1
